@@ -11,7 +11,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=realcoding2003&size_weight=0.5&count_weight=0.5"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img height="250" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
 <picture>
@@ -23,7 +23,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=realcoding2003&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img height="250" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
 <!--
