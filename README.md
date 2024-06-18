@@ -1,6 +1,14 @@
-<div>
-  <img src="realcoding.gif">
-</div>
+<picture>
+  <source
+    srcset="realcoding.gif"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=👏%20Hi%20there%20I'm%20realcoding2003&section=header&fontAlignY=29&fontSize=40&animation=twinkling&reversal=false&textBg=false"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=👏%20Hi%20there%20I'm%20realcoding2003&section=header&fontAlignY=29&fontSize=50&animation=twinkling&reversal=false&textBg=false" />
+</picture>
 
 <br>
 <br>
