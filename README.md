@@ -2,6 +2,9 @@
   <img src="realcoding.gif">
 </div>
 
+<br>
+<br>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=realcoding2003&show_icons=true&theme=dark"
@@ -14,7 +17,7 @@
   <img height="250" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
----
+<br><br>
 
 <picture>
   <source
@@ -27,3 +30,5 @@
   />
   <img height="250" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+
+---
