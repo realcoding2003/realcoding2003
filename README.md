@@ -1,42 +1,59 @@
-<picture>
-  <source
-    srcset="realcoding.gif"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=👏%20Hi%20there%20I'm%20realcoding2003&section=header&fontAlignY=29&fontSize=40&animation=twinkling&reversal=false&textBg=false"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=👏%20Hi%20there%20I'm%20realcoding2003&section=header&fontAlignY=29&fontSize=50&animation=twinkling&reversal=false&textBg=false" />
-</picture>
+# 👋 안녕하세요! Kevin Park입니다
 
-<br>
-<br>
+실무에서 쌓은 개발 경험과 새로 배운 기술들을 공유하고 있습니다.
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=realcoding2003&include_orgs=true&count_private=true&show_icons=true&theme=dark&locale=kr"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=realcoding2003&include_orgs=true&count_private=true&show_icons=true&locale=kr"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="220" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+> *"코드는 사람이 읽을 수 있도록 작성해야 한다. 기계가 실행할 수 있다는 것은 부차적인 일이다."*
+> — Harold Abelson
 
-<br><br>
+---
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=realcoding2003&include_orgs=true&count_private=true&theme=dark&locale=kr"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=realcoding2003&include_orgs=true&count_private=true&locale=kr"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="280" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+## 🔬 현재 연구 분야
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=realcoding2003&section=footer&fontAlignY=84&fontSize=25&animation=fadeIn&reversal=false&textBg=false">
+### Agentic Coding
+생성형 AI를 활용한 에이전틱 코딩 방법론 연구  
+AI Agent가 자율적으로 코드를 작성하고 디버깅하는 워크플로우 개발
+
+### AI-Native Architecture
+생성형 AI 시대에 맞는 새로운 소프트웨어 아키텍처 패턴 연구  
+LLM과 협업하기 좋은 코드 구조와 설계 원칙 탐구
+
+---
+
+## 💻 Tech Stack
+
+**Languages**  
+`Python` `JavaScript` `TypeScript` `Solidity`
+
+**AI/ML**  
+`LangChain` `OpenAI API` `Claude API` `Vertex AI` `MCP`
+
+**Frontend**  
+`React` `Vue.js` `TypeScript`
+
+**Backend**  
+`Node.js` `FastAPI` `Django` `PostgreSQL` `MongoDB`
+
+**DevOps**  
+`Docker` `AWS` `GCP` `GitHub Actions`
+
+---
+
+## 📦 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [vertex-ai-imagen-mcp](https://github.com/realcoding2003/vertex-ai-imagen-mcp) | 🎨 Vertex AI Imagen MCP Server |
+| [realcoding.blog](https://realcoding.blog) | 📝 실전코딩 기술 블로그 |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=realcoding2003&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+
+---
+
+<p align="center">
+  <a href="https://realcoding.blog">🌐 Blog</a> · 
+  <a href="mailto:kevinpark@okyc.kr">📧 Email</a>
+</p>
