@@ -33,24 +33,3 @@ LLM과 협업하기 좋은 코드 구조와 설계 원칙 탐구
 **DevOps**  
 `Docker` `AWS` `GCP` `GitHub Actions`
 
----
-
-## 📦 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [vertex-ai-imagen-mcp](https://github.com/realcoding2003/vertex-ai-imagen-mcp) | 🎨 Vertex AI Imagen MCP Server |
-| [realcoding.blog](https://realcoding.blog) | 📝 실전코딩 기술 블로그 |
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=realcoding2003&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-
----
-
-<p align="center">
-  <a href="https://realcoding.blog">🌐 Blog</a> · 
-  <a href="mailto:kevinpark@okyc.kr">📧 Email</a>
-</p>
